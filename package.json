@@ -1,0 +1,14 @@
+{
+  "name": "samplehttpapp",
+  "version": "1.0.0",
+  "description": "Tuto web app node.js (par Tech CBT sur youtube: https://www.youtube.com/watch?v=nuw48-u3Yrg)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stringbuilder": "0.0.11"
+  }
+}
